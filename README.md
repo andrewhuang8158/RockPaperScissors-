@@ -1,3 +1,3 @@
-Learned how to generate and select from an array.
-got more familiar with creating functions.
-Got a better understanding on when to use || and &&.
+<p>Learned how to generate and randomly select from an array.
+<p>Got a better understanding on when to use || and &&.
+<p>Used window.prompt for the first time.
